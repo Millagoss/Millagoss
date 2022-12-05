@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*EitUXT-pqbaQSCTt.gif)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif)
 
 <h1 align="center">Hi 👋, I'm Million Gossaye</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
