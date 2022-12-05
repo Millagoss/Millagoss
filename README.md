@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif)
+![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*EitUXT-pqbaQSCTt.gif)
 
 <h1 align="center">Hi 👋, I'm Million Gossaye</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
