@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Comfy-shop project**(https://shop-for-home.netlify.app/)
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, SASS, Styled-component**
 
