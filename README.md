@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Million Gossaye</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Track-learning-progress project**
+- 🔭 I’m currently working on **Track-Job-Progress project**
 
 - 🌱 I’m currently learning **Typescript**
 
