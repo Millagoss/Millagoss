@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/million gossaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="million gossaye" height="30" width="40" /></a>
 <a href="https://fb.com/milla goss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milla goss" height="30" width="40" /></a>
 <a href="https://instagram.com/milla_goss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milla_goss" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/channel/UCvaA6LK6CUrsYwBU_zFkBbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="million gossaye" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvaA6LK6CUrsYwBU_zFkBbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="million gossaye" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
