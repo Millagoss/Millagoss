@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Million Gossaye</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Track-Job-Progress project**
+- 🔭 I’m currently working at muyalogy
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning back-end
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, SASS, Styled-component**
+- 💬 Ask me about **React,Next.js, TypeScript, JavaScript, HTML, CSS, SASS, Styled-component**
 
 - 📫 How to reach me **millagoss19@gmail.com**
 
