@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **millagoss19@gmail.com**
 
-- 🥅 2023 Goals **learn more about front-end and back-end and become a professional**
+- 🥅 2024 Goals **become a fullstack developer**
 
-- ⚡ Fun fact **I love music production specially EDM, Check my youtube Channel**
+- ⚡ Hobbie **I love music production specially EDM, Check my youtube Channel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
